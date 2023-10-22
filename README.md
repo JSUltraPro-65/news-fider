@@ -1,1 +1,1 @@
-# news-fider
+# news-feed
